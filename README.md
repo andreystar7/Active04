@@ -1,2 +1,21 @@
-# Active04
-Scratch: Flash an LED on Expansion Port 1
+Active04
+================
+
+Scratch
+
+Flash LED wired into Expansion Port 1 
+
+### Project Information
+```
+Type              : Scratch
+Version           : 1.0.0
+Author            : mykepredko
+Firmware          : 42
+```
+
+### Additional Information
+This project requires a Jade Robot to run!
+
+### License
+This software is provided "as is" without any expressed or implied warranties.  In no case shall the author or any contributors be liable for any damages caused by the use of this software.
+
